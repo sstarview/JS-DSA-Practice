@@ -3,8 +3,8 @@
 
 
 /* 
-    These kind of sliding problem where we have to use 
-    two pointers, i.e, i, and j. In most cases pick both pointer the same 
+    These kind of sliding problem where we have to use two pointers,
+    i.e, i, and j. In most cases pick both pointer the same 
     to escape the problem of handeling last index.
     Eg: if we take i = 0 and j = 1
     for the last array j length will be greater than array itself.
