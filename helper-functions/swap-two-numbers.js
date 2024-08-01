@@ -1,4 +1,4 @@
-swap = (a, b) => {
+const swap = (a, b) => {
     const temp = a;
     a = b;
     b = temp;
